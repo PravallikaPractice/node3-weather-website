@@ -1,0 +1,12 @@
+body{
+    color:#333333;
+    font-family : arial;
+    max-width :650px;
+    margin :0 auto;
+    padding : 0 16px;
+}
+
+img{
+    width :250px;
+    height :250px;
+}
